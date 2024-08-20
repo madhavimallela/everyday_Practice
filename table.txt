@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> time table</title>
+
+    </head>
+    <body>
+        <h1 align="center">TIME TABLE</h1>
+        <table border="10" height="100" width="1300">
+            <tr align="center">
+                <th>sl</th>
+                <th>10-11</th>
+                <th>11-12</th>
+                <th>12-01</th>
+                <th rowspan="7">l<br/>u<br/>n<br/>c<br/>h<br/>b<br/>r<br/>e<br/>a<br/>k</th>
+                <th>02-03</th>
+                <th>03-04</th>
+                <th>04-05</th>
+            </tr>
+            <tr align="center">
+                <td>1</td>
+                <td>telugu</td>
+                <td>english</td>
+                <td>maths</td>
+                <td>social</td>
+                <td>science</td>
+                <td>hindi</td>
+
+            </tr>
+            <tr align="center">
+                <td>2</td>
+                <td>english</td>
+                <td>telugu</td>
+                <td>maths</td>
+                <td>hindi</td>
+                <td>science</td>
+                <td>social</td></tr>
+                <tr align="center">
+                    <td>3</td>
+                    <td>hindi</td>
+                    <td>english</td>
+                    <td>science</td>
+                    <td>social</td>
+                    <td>maths</td>
+                    <td>telugu</td></tr>
+    
+                    <tr align="center">
+                        <td>4</td>
+                        <td>hindi</td>
+                        <td>english</td>
+                        <td>science</td>
+                        <td>maths</td>
+                        <td>social</td>
+                        <td>telugu</td></tr>
+                        <tr align="center">
+                            <td>5</td>
+                            <td>maths</td>
+                            <td>english</td>
+                            <td>science</td>
+                            <td>social</td>
+                            <td>hindi</td>
+                            <td>telugu</td></tr>
+                            <tr align="center">
+                                <td>6</td> 
+                                <td>hindi</td>
+                                <td>english</td>
+                                <td>science</td>
+                                <td>maths</td>
+                                <td>social</td>
+                                <td>telugu</td></tr>
+                               
+                            
+        </table>
+    </body>
+</html>
