@@ -1,0 +1,28 @@
+#card1
+{
+   text-align: center; 
+   border: 10px solid red;
+   width: 400px;
+   height:fit-content;
+   padding: 10px;
+
+}
+#card1:hover{
+    background-color: rgb(86, 231, 117);
+    color: white;
+
+}
+#card
+{
+   text-align: center; 
+   border: 10px solid red;
+   width: 400px;
+   height:fit-content;
+   padding: 10px;
+
+}
+#card:hover{
+    background-color: rgb(60, 4, 112);
+    color:rosybrown;
+
+}

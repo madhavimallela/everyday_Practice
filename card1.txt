@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="card.css">
+</head>
+<body>
+    <div id="card1">
+        <h2>sample card</h2>
+        <img  height="150"width="200"src="https://cdn.tollywood.net/wp-content/uploads/2022/12/Anushka-Shetty-joins-sets-of-her-48th-film-jpg.webp" alt="anushka" width="200"height="200"/>
+        <p>this is the image of anushka</p>
+        <button><a href="card.html">previous</a></button>
+    </div> <br><br><br><br><br><br><br>
+    <br><br><br><br><br><br><br>
+    <br><br><br><br><br><br><br>
+    <br><br><br><br><br><br><br>
+   <br><br><br><br><br><br><br>
+   
+    <a href="#card1">move to top</a>
+</body>
+</html>

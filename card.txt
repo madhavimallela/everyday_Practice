@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>card</title>
+    <link rel="stylesheet" href="card.css">
+</head>
+<body>
+    <div id="card">
+        <h1>sample card of prabas</h1>
+        <img width="200"height="200" src="https://m.media-amazon.com/images/M/MV5BZDY5YmE3ZDMtNGY2NS00NGYwLWEzNDctZTk1Yjk1MGQ3ZDJiXkEyXkFqcGdeQXVyNjkwOTg4MTA@._V1_.jpg"/><p image of prabas</p>
+        <button><a href="card1.html">next</a></button>
+    </div>
+</body>
+</html>
