@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>registation form</title>
+</head>
+<body>
+    <table align="center" frame="box" cellpadding="10"cellspacing=>
+        <form>
+            <tr><td colspan="2" align="center"><h1> registration form</h1></td></tr>
+            <tr><td><input type="text" placeholder="first name"/></td>
+                <td><input type="text"placeholder="last name"/></td></tr>
+            <tr><td colspan="2"><input type="text"placeholder="enter e mail"/></td></tr>
+            <tr><td><input type="password" placeholder="enter password"/></td>
+                <td><input type="password" placeholder="confirm password"/></td></tr>
+            <tr><td colspan="2"><legend>gender</legend>
+                    <input type="radio"name="gender"/>male
+                    <input type="radio"name="gender"/>female
+                    <input type="radio"name="gender"/>other</td></tr>
+            <tr><td colspan="2">date of birth <input type="date"/></td></tr>
+            <tr> <td colspan="2" align="center"><input type="checkbox">I accept to the terms and conditions </td></tr>
+            <tr><td colspan="2" align="center"><input type="button" value="register"/></td></tr>
+           
+            
+        </form>
+    </table>
+    
+</body>
+</html>
